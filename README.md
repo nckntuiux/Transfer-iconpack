@@ -1,4 +1,4 @@
-# Transfer-iconpack
+# Transfer icons
 
 ### Changelog
 
